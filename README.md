@@ -1,0 +1,1 @@
+1)use "pip install -r ./requirements.txt" in your command line to download the dependencies and start running the file in your notebook
