@@ -31,11 +31,14 @@ I also learned how to deal with imbalanced datasets and how to use system resour
 
 It was a good time working and learning with these peoples.
 
-Write your part below 
-
 
 ![Tejaswini](https://img.shields.io/badge/Tejaswini-f76707)
 
+Starting from understanding the problem with imbalanced data we have explored different sampling techniques like Nearmiss and SMOTE.
+
+From Comparing different ML models to evaluating them by using metrics beyond accuracy (precision, recall, F1-score, confusion matrix) inorder to judge the 
+
+fraud detection properly, I got know many useful things as a beginner.
 
 ![Rohit](https://img.shields.io/badge/Rohit-1c7ed6)
 
