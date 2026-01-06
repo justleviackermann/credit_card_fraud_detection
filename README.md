@@ -29,8 +29,7 @@ It was a good time learning how we can select the best model among the models av
 
 I also learned how to deal with imbalanced datasets and how to use system resources effectively to select a single best model for our system.
 
-It was a good time working and learning with:
-
+It was a good time working and learning with these peoples.
 
 Write your part below 
 
