@@ -14,7 +14,7 @@ The project was collaboratively carried out by:
 
 ![Ganeshkumar](https://img.shields.io/badge/Ganeshkumar-20c997)
 ![Tejaswini](https://img.shields.io/badge/Tejaswini-f76707)
-![Rohith Kanna](https://img.shields.io/badge/Rohith-Kanna-1c7ed6)
+![Rohith Kanna](https://img.shields.io/badge/RohithKanna-1c7ed6)
 
 with active contributions from all team members.
 
@@ -38,7 +38,7 @@ Starting from understanding the problem with imbalanced data we have explored di
 
 From Comparing different ML models to evaluating them by using metrics beyond accuracy (precision, recall, F1-score, confusion matrix) inorder to judge the fraud detection properly, I got know many useful things as a beginner.
 
-![Rohith Kanna](https://img.shields.io/badge/Rohith-Kanna-1c7ed6)
+![Rohith Kanna](https://img.shields.io/badge/RohithKanna-1c7ed6)
 
 This project gave me a oppurtunity to train a ML model with imbalanced data , learning the techniques to train ML model with imbalanced data using SMOTE technique and  deep dive into various fundamentals like negative correlation , t-SNE algorithm and random undersampling technique,etc.
 
