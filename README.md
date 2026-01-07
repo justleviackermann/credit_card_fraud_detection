@@ -14,7 +14,7 @@ The project was collaboratively carried out by:
 
 ![Ganeshkumar](https://img.shields.io/badge/Ganeshkumar-20c997)
 ![Tejaswini](https://img.shields.io/badge/Tejaswini-f76707)
-![Rohit](https://img.shields.io/badge/Rohit-1c7ed6)
+![Rohith Kanna](https://img.shields.io/badge/Rohit-1c7ed6)
 
 with active contributions from all team members.
 
@@ -36,9 +36,12 @@ It was a good time working and learning with these peoples.
 
 Starting from understanding the problem with imbalanced data we have explored different sampling techniques like Nearmiss and SMOTE.
 
-From Comparing different ML models to evaluating them by using metrics beyond accuracy (precision, recall, F1-score, confusion matrix) inorder to judge the 
+From Comparing different ML models to evaluating them by using metrics beyond accuracy (precision, recall, F1-score, confusion matrix) inorder to judge the fraud detection properly, I got know many useful things as a beginner.
 
-fraud detection properly, I got know many useful things as a beginner.
+![Rohith Kanna](https://img.shields.io/badge/Rohit-1c7ed6)
 
-![Rohit](https://img.shields.io/badge/Rohit-1c7ed6)
+This project gave me a oppurtunity to train a ML model with imbalanced data , learning the techniques to train ML model with imbalanced data using SMOTE technique and  deep dive into various fundamentals like negative correlation , t-SNE algorithm and random undersampling technique,etc.
+
+Had a great time learning with you guys!
+
 
